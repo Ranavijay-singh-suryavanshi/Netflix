@@ -1,6 +1,6 @@
 # Features
-# -Login/SignUp Page
-    -Singn in /Sign up form 
+# -Login/Signup Page
+    -Sign in /Sign up form 
     -Redirect to browse page
 # -Browase (After authentication)
     -Header
